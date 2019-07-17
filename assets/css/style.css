@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 79, 108)
+}
+
+.container {
+    background-color: yellow;
+    height: 500px;
+    width: 750px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-justify: center
+}
